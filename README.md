@@ -22,3 +22,9 @@ An intelligent **AI-powered code review system** that automatically analyzes sou
 ---
 
 ## 📁 Project Structure
+
+ai-code-review/
+│
+├── backend/     # FastAPI backend service and code analyzer
+├── ml/          # Machine learning model training and prediction scripts
+└── frontend/    # Minimal UI for interacting with the system
