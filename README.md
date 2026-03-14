@@ -1,15 +1,24 @@
-<<<<<<< HEAD
-# AI Code Review
+# 🤖 AI Code Review
 
-Starter project for AI-powered code review and bug prediction.
+An intelligent **AI-powered code review system** that automatically analyzes source code, detects potential bugs, and suggests improvements to enhance **code quality and developer productivity**.
 
-Structure:
+---
 
-- backend: FastAPI service and analyzer
-- ml: training and model scripts
-- frontend: minimal UI
+## 🚀 Features
+- 🔍 **Automated Code Analysis** using AI
+- 🐞 **Bug Detection** and issue prediction
+- 📊 **Code Quality Suggestions**
+- ⚡ **Fast Backend** powered by FastAPI
+- 💻 **Simple Web Interface** for interaction
 
-Follow the original plan to implement each component.
-=======
-# ai-code-review
->>>>>>> 63fe41eac274f207d7cb224035f8b4d96755636a
+---
+
+## 🛠️ Tech Stack
+- **Backend:** FastAPI (Python)
+- **Machine Learning:** Python, ML models
+- **Frontend:** HTML, CSS, JavaScript
+- **Version Control:** Git & GitHub
+
+---
+
+## 📁 Project Structure
